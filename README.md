@@ -106,5 +106,7 @@
 
 ### 🚀 Мои проекты
 
-**[CyberCard]([https://github.com/HiraethTempest/CyberCard](https://hiraethtempest.github.io/CyberCard/)**  
-*Это мой пет-проект, в котором я практикуюсь в верстке и оформлении веб-интерфейсов.*
+- 🌐 **[CyberCard (Живой сайт)](https://hiraethtempest.github.io/CyberCard/)**  
+   
+  - 💻 [Исходный код на GitHub](https://github.com/HiraethTempest/CyberCard)  
+
