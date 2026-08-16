@@ -103,3 +103,8 @@
   <img src="https://raw.githubusercontent.com/HiraethTempest/HiraethTempest/refs/heads/main/Certificate(2).png" width="45%" alt="Сертификат 2">
 
 </div>
+
+### 🚀 Мои проекты
+
+**[CyberCard](https://github.com/HiraethTempest/CyberCard)**  
+*Это мой пет-проект, в котором я практикуюсь в верстке и оформлении веб-интерфейсов.*
