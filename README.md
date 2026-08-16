@@ -19,3 +19,25 @@
 Почта: lovchev.s@mail.ru
 
 TG @qqqqsde
+
+### 🛠 Стек технологий и инструменты:
+
+**Тестирование API и интеграций**
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,kafka,rest,docker" alt="API Tools" />
+</p>
+
+**Тестирование Web и Мобильных приложений**
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,html,css,firebase,androidstudio" alt="Web & Mobile" />
+</p>
+
+**Тестовая документация и управление**
+<p>
+  <img src="https://skillicons.dev/icons?i=notion,jira,git,github" alt="Management Tools" />
+</p>
+
+**Работа с базами данных**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" alt="Databases" />
+</p>
