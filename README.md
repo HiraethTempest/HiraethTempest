@@ -87,8 +87,6 @@
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp
 </div>
 
-<!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
-<!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 
 
 
 <br>
@@ -99,9 +97,4 @@
 
 <br>
 
-## 🎒 Образование
-[<img src="/diploma-with-number_ru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/refs/heads/main/diploma-with-number_ru.png)
-[<img src="/Letter12.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter12.png)
 
-<br>
-<br>
