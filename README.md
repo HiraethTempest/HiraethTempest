@@ -93,9 +93,9 @@
 
 ### 🌱 Практика и стажировка
 
-- [🖼 Посмотреть сертификат (RU)](https://raw.githubusercontent.com/HiraethTempest/HiraethTempest/refs/heads/main/Certificate-RU.png)
-- [🖼 Посмотреть сертификат (EN)](https://raw.githubusercontent.com/HiraethTempest/HiraethTempest/refs/heads/main/Certificate-en.png)
-- [🖼 Посмотреть сертификат 4fresh](https://raw.githubusercontent.com/HiraethTempest/HiraethTempest/refs/heads/main/Certificate.png)
-- [🖼 Посмотреть дополнительный сертификат](https://raw.githubusercontent.com/HiraethTempest/HiraethTempest/refs/heads/main/Certificate(2).png)
+- 📄 [Сертификат об окончании стажировки (RU)](https://raw.githubusercontent.com/HiraethTempest/HiraethTempest/refs/heads/main/Certificate-RU.png)
+- 📄 [Сертификат об окончании стажировки (EN)](https://raw.githubusercontent.com/HiraethTempest/HiraethTempest/refs/heads/main/Certificate-en.png)
+- 📄 [Сертификат 4fresh (Вариант 1)](https://raw.githubusercontent.com/HiraethTempest/HiraethTempest/refs/heads/main/Certificate.png)
+- 📄 [Сертификат 4fresh (Вариант 2)](https://raw.githubusercontent.com/HiraethTempest/HiraethTempest/refs/heads/main/Certificate(2).png)
 
 
